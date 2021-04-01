@@ -1,0 +1,22 @@
+{
+  "name": "physics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readme_builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0rgbart3/kinetic_energy.git"
+  },
+  "author": "Bart Dority",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0rgbart3/kinetic_energy/issues"
+  },
+  "homepage": "https://github.com/b0rgbart3/kinetic_energy#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
